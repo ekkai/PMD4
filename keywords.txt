@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For dustSensor_kocoa
+#######################################
+
+#######################################
+# Library (KEYWORD1)
+#######################################
+
+dustSensor_kocoa	KEYWORD1	dustSensor_kocoa
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+pm10Value	KEYWORD2
+pm25Value	KEYWORD2
+pm1Value	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
